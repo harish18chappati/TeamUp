@@ -1,0 +1,19 @@
+# Maven build output
+target/
+
+# Local database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# IDE settings
+.vscode/
+.idea/
+
+# Java generated files
+*.class
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
